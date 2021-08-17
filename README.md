@@ -158,6 +158,11 @@ Create a label positioned relative to an edge
 Can be used to store edges and nodes.
 Contains utility methods to build graphs, position nodes, remove and create nodes, edges and so on.
 
+
+###graph reordering
+You can use graph.reorderGraph() function to reorder your nodes and edges
+
+
 ## Styling
 
 The simplest way to style nodes and edges is using CSS
